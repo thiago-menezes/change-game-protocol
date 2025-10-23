@@ -75,31 +75,56 @@ Stop spreading yourself thin. Revenue comes from COMPLETED work, not active proj
 
 ## WEEKLY TIME ALLOCATION
 
-### TODAY (Interview Prep Day)
+### TODAY (Oct 23 - Evening)
 ```
-07:00 - 13:00 (6h): Kake Interview Preparation
-13:00 - 14:00 (1h): Lunch + Rest
-14:00 - 16:00 (2h): Uninassau POC Scoping (define requirements)
-16:00 - 19:00 (3h): Aico US translation work
-19:00 - 21:00 (2h): Dinner + Family
-21:00 - 22:00 (1h): Final interview review
-22:00+: SLEEP (need to be sharp tomorrow)
+NOW - 21:00 (varies): Kake Interview Preparation (6 hours total)
+21:00 - 23:00 (2h): Uninassau POC planning + framework setup
+23:00+: SLEEP (interview is TOMORROW)
 ```
 
-### TOMORROW (Interview Day)
+### FRIDAY (Oct 24 - Interview Day)
 ```
-Morning: KAKE INTERVIEW
-Afternoon: Uninassau POC execution (start development)
-Evening: Aico US translation (2-3 hours)
+Morning: KAKE INTERVIEW + Thank you email
+Afternoon: Strapi CMS setup + Resapha Design System research
+Evening: Uninassau POC foundation work (2-3 hours)
+Goal: Interview complete, POC foundation started
 ```
 
-### REST OF WEEK (After Interview)
+### SATURDAY (Oct 25 - POC Sprint Day 1)
 ```
-07:00 - 13:00 (6h): Uninassau POC (ship by Friday)
+07:00 - 13:00 (6h): Strapi content types + sample data
 13:00 - 14:00 (1h): Lunch + Rest
-14:00 - 19:00 (5h): Split between Aico US and Uninassau
+14:00 - 19:00 (5h): Static site framework + Design System tokens
 19:00 - 21:00 (2h): Dinner + Family
-21:00 - 22:00 (1h): T8/Retouch social media batch work
+21:00 - 23:00 (2h): Homepage structure + navigation
+Goal: CMS working, Design System integrated, Homepage functional
+```
+
+### SUNDAY (Oct 26 - POC Sprint Day 2)
+```
+07:00 - 13:00 (6h): Course listing page (PLP) + Course detail page (PDP)
+13:00 - 14:00 (1h): Lunch + Rest
+14:00 - 19:00 (5h): Course search + Final polish + Testing
+19:00 - 21:00 (2h): Dinner + Family
+21:00 - 23:00 (2h): Contact Thales, confirm Monday meeting time
+Goal: POC 90% complete, all features working, tested
+```
+
+### MONDAY (Oct 27 - DELIVERY DAY)
+```
+07:00 - 09:00 (2h): Final testing + bug fixes
+09:00 - 11:00 (2h): Prepare presentation for Vinícius
+11:00+: MEETING WITH VINÍCIUS - PRESENT POC
+Afternoon: Follow-up tasks, polish based on feedback
+Goal: POC delivered, client impressed, project secured
+```
+
+### TUESDAY+ (After POC Delivery)
+```
+Resume normal schedule:
+- Aico US translation (complete by end of week)
+- T8/Retouch social media (batch work)
+- iRoddas sales page
 ```
 
 ---
@@ -128,17 +153,21 @@ Evening: Aico US translation (2-3 hours)
 
 ---
 
-## CRITICAL QUESTIONS YOU MUST ANSWER
+## CRITICAL QUESTIONS - ANSWERED ✅
 
-### About Uninassau (URGENT)
-1. What exactly is Uninassau? (Education? Platform? Service?)
-2. What must the POC demonstrate?
-3. Who is the client/decision maker?
-4. When is the POC deadline?
-5. What is the payment amount and terms?
-6. What are you blocked on right now?
+### About Uninassau
+1. ✅ What exactly is Uninassau? **University website for Ser Educacional Group**
+2. ✅ What must the POC demonstrate? **CMS + Design System + Course pages + Navigation**
+3. ✅ Who is the client/decision maker? **Vinícius (working with designer Thales Guilherme)**
+4. ✅ When is the POC deadline? **Monday, October 28, 2025 (5 days from now)**
+5. ❓ What is the payment amount and terms? **Pending - Thales confirming with Vinícius**
+6. ✅ What are you blocked on right now? **NOTHING - Execute immediately**
 
-**Without these answers, you CANNOT execute on your #1 financial priority.**
+### Immediate Action Items
+- [ ] Get Figma access from Thales (for design tokens)
+- [ ] Confirm Monday meeting time with Thales/Vinícius
+- [ ] Choose static site framework (Next.js recommended)
+- [ ] Set up Strapi locally Friday afternoon
 
 ---
 
@@ -185,24 +214,62 @@ When you're unsure what to work on, ask:
 
 ---
 
-## NEXT ACTIONS (DO NOW)
+## NEXT ACTIONS (RIGHT NOW - Oct 23 Evening)
 
+### Immediate (Next 6 hours)
 1. ✅ Review this document
-2. ⏳ **Define Uninassau POC scope** (what is it? what's required?)
-3. ⏳ **Start Kake interview prep** (6 hours today)
-4. ⏳ **Update daily routine** with new priorities
-5. ⏳ **Set tomorrow's alarms** for interview
+2. ✅ Define Uninassau POC scope
+3. ⏳ **START Kake interview prep** (projects/kake-interview.md)
+   - Review your recent projects
+   - Prepare 3 problem-solving examples
+   - Practice technical explanations in English
+   - Prepare questions for interviewer
+   - Test video/internet setup
+
+### Before Sleep Tonight
+4. ⏳ **2 hours Uninassau setup**
+   - Decide on framework (Next.js/Astro)
+   - Read Strapi quickstart documentation
+   - Plan folder structure
+   - Create project repository
+5. ⏳ **Set 3 alarms for interview tomorrow**
+6. ⏳ **Lay out interview clothes and materials**
+7. ⏳ **Sleep by 11 PM** (need 7+ hours for interview)
 
 ---
 
 ## THE BOTTOM LINE
 
-**You have 2 immediate revenue opportunities:**
-1. Kake = steady income
-2. Uninassau = fast cash
+**This is a 5-DAY SPRINT with 2 critical deliverables:**
 
-**Everything else is secondary.**
+1. **FRIDAY**: Kake Interview → Potential steady income
+2. **MONDAY**: Uninassau POC → Fast cash for pension + Brazil travel
 
-Focus wins. Scattered attention loses.
+**Timeline:**
+- **Today**: Kake prep (6h) + Uninassau planning (2h)
+- **Friday**: Interview + POC foundation
+- **Weekend**: 16+ hours of POC development
+- **Monday**: Deliver and present to Vinícius
 
-What did you SHIP today?
+**Everything else pauses until Tuesday.**
+
+**This weekend determines if you can:**
+- Pay your daughter's pension ✅
+- Travel to Brazil ✅
+- Secure steady Kake income ✅
+
+Stop planning. Start executing.
+
+---
+
+## What You're Going to SHIP This Week
+
+- ✅ Kake interview performance (Friday AM)
+- ✅ Uninassau POC (Monday AM)
+  - Working CMS (Strapi)
+  - Design System (Resapha)
+  - Course pages (PLP + PDP)
+  - Static site generation
+  - Professional presentation
+
+**Current status:** Planning complete. Execute now.
