@@ -1,6 +1,6 @@
 # Aico
 
-Priority: High
+Priority: **HIGH - Active Revenue Pipeline**
 
 ## What I Will Deliver
 - Complete marketing automation package for US lawyers and doctors

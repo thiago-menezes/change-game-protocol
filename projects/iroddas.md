@@ -1,6 +1,6 @@
 # Iroddas
 
-Priority: Medium
+Priority: **LOW - Sales Mode Only**
 
 ## What I Will Deliver
 - Vehicle marketplace platform for interior Brazil

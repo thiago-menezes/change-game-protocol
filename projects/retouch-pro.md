@@ -1,7 +1,7 @@
 # Retouch Pro
 *A product from T8 Pro*
 
-Priority: High
+Priority: **MEDIUM - Foundation Building**
 
 
 ## What I Will Deliver
